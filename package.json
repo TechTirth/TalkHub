@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon backend/server.js"
   },
-  "author": "DTank",
+  "author": "Tirth",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
